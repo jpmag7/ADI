@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+    <entry key="dimensions" type="xint" value="4"/>
+    <entry key="ignoredColumns" type="xint" value="0"/>
+    <config key="clusterCoverage">
+        <entry key="array-size" type="xint" value="3"/>
+        <entry key="0" type="xint" value="42"/>
+        <entry key="1" type="xint" value="41"/>
+        <entry key="2" type="xint" value="37"/>
+    </config>
+    <config key="kMeansCluster0">
+        <entry key="array-size" type="xint" value="4"/>
+        <entry key="0" type="xdouble" value="5.857142857142855"/>
+        <entry key="1" type="xdouble" value="2.7499999999999996"/>
+        <entry key="2" type="xdouble" value="4.2785714285714285"/>
+        <entry key="3" type="xdouble" value="1.3619047619047615"/>
+    </config>
+    <config key="kMeansCluster1">
+        <entry key="array-size" type="xint" value="4"/>
+        <entry key="0" type="xdouble" value="4.980487804878049"/>
+        <entry key="1" type="xdouble" value="3.4170731707317072"/>
+        <entry key="2" type="xdouble" value="1.460975609756097"/>
+        <entry key="3" type="xdouble" value="0.2463414634146341"/>
+    </config>
+    <config key="kMeansCluster2">
+        <entry key="array-size" type="xint" value="4"/>
+        <entry key="0" type="xdouble" value="6.818918918918918"/>
+        <entry key="1" type="xdouble" value="3.0135135135135127"/>
+        <entry key="2" type="xdouble" value="5.651351351351351"/>
+        <entry key="3" type="xdouble" value="2.027027027027027"/>
+    </config>
+    <config key="FeatureNames">
+        <entry key="array-size" type="xint" value="4"/>
+        <entry key="0" type="xstring" value="SepalLengthCm"/>
+        <entry key="1" type="xstring" value="SepalWidthCm"/>
+        <entry key="2" type="xstring" value="PetalLengthCm"/>
+        <entry key="3" type="xstring" value="PetalWidthCm"/>
+    </config>
+</config>
